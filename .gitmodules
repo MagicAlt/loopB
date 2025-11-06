@@ -1,3 +1,4 @@
 [submodule "loopA"]
 	path = loopA
 	url = https://github.com/MagicAlt/loopA
+	branch = main
